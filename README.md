@@ -25,8 +25,14 @@
 3. [使用命令测试WebSocket](http://www.wenyuanblog.com/blogs/test-websocket-using-command-in-linux.html)
 
 
+## 机器学习
+1. [机器学习术语表](http://www.wenyuanblog.com/blogs/machine-learning-glossary.html)
+2. [TensorFlow小记01 – 基础知识](http://www.wenyuanblog.com/blogs/tensorflow-basic-usage-1.html)
+
+
 ## JavaScript
-1. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
+1. [各种浏览器存储方式总结](http://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
+2. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
 
 
 ## 面试系列
@@ -51,19 +57,19 @@
 - ★★★：值得一看，看了不会后悔的
 - ★★☆：可以一看，了解了解
 - ★☆☆：不推介，浪费你宝贵的生命
- 
+
 ### Python
 - [x] ★★☆ **Python爬虫开发与项目实战**  <sub>`2017`</sup>
 - [x] ★★☆ **Python3网络爬虫开发实战**  <sub>`2017`</sup>
 - [x] ★☆☆ 跟老齐学Python：Django实战  <sub>`2018`</sup>
- 
+
 ### Elasticsearch
 - [x] ★★★ **深入理解Elasticsearch**  <sub>`2018`</sup>
 - [x] ★★☆ **从Lucene到Elasticsearch 全文检索实战**  <sub>`2018`</sup>
 
 ### MySQL
 - [x] ★★☆ **深入浅出MySQL：数据库开发、优化与管理维护**  <sub>`2017`</sup>
- 
+
 ### 课外书
 - [x] ★★☆ **高等数学同济六版（上）**  <sub>`2018`</sup>
 - [x] ★★☆ **高等数学同济六版（下）**  <sub>`2018`</sup>
