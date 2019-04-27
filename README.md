@@ -9,8 +9,9 @@
 ## Python
 1. [时间和日期模块](http://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
 2. [文本文件读写](http://www.wenyuanblog.com/blogs/python-txt-files-io.html)
-3. [Pythonic风格](http://www.wenyuanblog.com/blogs/python-code-and-pythonic-code.html)
-4. [经典排序算法](http://www.wenyuanblog.com/blogs/python-sorting-algorithm.html)
+3. [Matplotlib模块]
+4. [Pythonic风格](http://www.wenyuanblog.com/blogs/python-code-and-pythonic-code.html)
+5. [经典排序算法](http://www.wenyuanblog.com/blogs/python-sorting-algorithm.html)
 
 
 ## Elasticsearch
