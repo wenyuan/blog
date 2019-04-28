@@ -9,18 +9,19 @@
 ## Python
 1. [时间和日期模块](http://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
 2. [文本文件读写](http://www.wenyuanblog.com/blogs/python-txt-files-io.html)
-3. [Matplotlib模块]
+3. [Matplotlib模块](http://www.wenyuanblog.com/blogs/python-matplotlib.html)
 4. [Pythonic风格](http://www.wenyuanblog.com/blogs/python-code-and-pythonic-code.html)
 5. [经典排序算法](http://www.wenyuanblog.com/blogs/python-sorting-algorithm.html)
-
+6. [单变量异常值检测](http://www.wenyuanblog.com/blogs/python-univariate-outlier-detection.html)
 
 ## Elasticsearch
+
 1. [环境部署](http://www.wenyuanblog.com/blogs/elasticsearch-deployment.html)
 2. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
 3. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
-
 ## 服务器
+
 1. [Nmap基础用法](http://www.wenyuanblog.com/blogs/nmap-basic-usage.html)
 2. [Nginx正向代理与反向代理](http://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html)
 3. [使用命令测试WebSocket](http://www.wenyuanblog.com/blogs/test-websocket-using-command-in-linux.html)
