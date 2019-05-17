@@ -17,10 +17,12 @@
 
 ## Elasticsearch
 1. [环境部署](http://www.wenyuanblog.com/blogs/elasticsearch-deployment.html)
-2. [Query DSL入门](http://www.wenyuanblog.com/blogs/elasticsearch-simple-query-dsl.html)
-3. [索引备份与迁移](http://www.wenyuanblog.com/blogs/elasticsearch-backup-and-migration.html)
-4. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
-5. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
+2. [索引备份与迁移](http://www.wenyuanblog.com/blogs/elasticsearch-backup-and-migration.html)
+3. [Query DSL入门](http://www.wenyuanblog.com/blogs/elasticsearch-simple-query-dsl.html)
+4. [Analyzer内部机制](http://www.wenyuanblog.com/blogs/elasticsearch-all-about-analyzers.html)
+5. [中文分词器](http://www.wenyuanblog.com/blogs/elasticsearch-chinese-analyzer.html)
+6. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
+7. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
 
 ## 服务器
