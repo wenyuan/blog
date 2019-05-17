@@ -1,4 +1,4 @@
-[<img src="./img/logo.png" width="120" height="120">](http://www.wenyuanblog.com)
+[<img src="http://www.wenyuanblog.com/favicon.png" width="120" height="120">](http://www.wenyuanblog.com)
 
 
 # WY Blog
@@ -17,8 +17,10 @@
 ## Elasticsearch
 
 1. [环境部署](http://www.wenyuanblog.com/blogs/elasticsearch-deployment.html)
-2. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
-3. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
+2. [Query DSL入门](http://www.wenyuanblog.com/blogs/elasticsearch-simple-query-dsl.html)
+3. [索引备份与迁移](http://www.wenyuanblog.com/blogs/elasticsearch-backup-and-migration.html)
+4. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
+5. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
 ## 服务器
 
@@ -29,7 +31,9 @@
 
 ## 机器学习
 1. [机器学习术语表](http://www.wenyuanblog.com/blogs/machine-learning-glossary.html)
-2. [TensorFlow小记01 – 基础知识](http://www.wenyuanblog.com/blogs/tensorflow-basic-usage-1.html)
+2. [【TensorFlow小记】基础知识](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-1.html)
+3. [【TensorFlow小记】线性回归案例](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-2.html)
+4. [【TensorFlow小记】CNN初探](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-3.html)
 
 
 ## JavaScript
@@ -46,7 +50,7 @@
 
 
 ## 今年计划书单
-- [ ] 图解HTTP
+- [x] 图解HTTP
 - [ ] 图解TCP/IP
 - [ ] Elasticsearch源码解析与优化实战
 - [ ] 像间谍一样观察
