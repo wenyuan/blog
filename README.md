@@ -44,6 +44,7 @@
 ## JavaScript
 1. [各种浏览器存储方式总结](http://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
 2. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
+3. [最全跨域问题解决方案](http://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
 
 
 ## 面试系列
