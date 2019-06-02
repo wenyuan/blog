@@ -1,7 +1,8 @@
 [<img src="http://www.wenyuanblog.com/favicon.png" width="120" height="120">](http://www.wenyuanblog.com)
 
-# WY Blog
+> 以下为我的个人博客内容
 
+# WY Blog
 个人主页：http://www.wenyuanblog.com/
 
 ## Python
@@ -15,18 +16,15 @@
 8. [单变量异常值检测](http://www.wenyuanblog.com/blogs/python-univariate-outlier-detection.html)
 9. [实时获取tcpdump输出](http://www.wenyuanblog.com/blogs/python-realtime-tcpdump.html)
 
-
 ## JavaScript
 1. [各种浏览器存储方式总结](http://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
 2. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
 3. [最全跨域问题解决方案](http://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
 
-
 ## HTML5/CSS3
 1. [HTML5浏览器兼容性](http://www.wenyuanblog.com/blogs/html5-compatibility.html)
 2. [HTML5中的API](http://www.wenyuanblog.com/blogs/html5-apis.html)
 3. [CSS3新特性](http://www.wenyuanblog.com/blogs/css3-new-features.html)
-
 
 ## Elasticsearch
 1. [环境部署](http://www.wenyuanblog.com/blogs/elasticsearch-deployment.html)
@@ -37,7 +35,6 @@
 6. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
 7. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
-
 ## 机器学习
 1. [机器学习术语表](http://www.wenyuanblog.com/blogs/machine-learning-glossary.html)
 2. [【TensorFlow小记】基础知识](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-1.html)
@@ -46,20 +43,21 @@
 5. [【TensorFlow小记】CNN文本分类原理](http://www.wenyuanblog.com/blogs/tensorflow-cnn-text-classification-theory.html)
 6. [【TensorFlow小记】CNN英文文本分类](http://www.wenyuanblog.com/blogs/tensorflow-cnn-english-text-classification-implement.html)
 
-
 ## Linux
 1. [Nmap基础用法](http://www.wenyuanblog.com/blogs/nmap-basic-usage.html)
 2. [Nginx正向代理与反向代理](http://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html)
 3. [使用命令测试WebSocket](http://www.wenyuanblog.com/blogs/websocket-testing-by-command-in-linux.html)
 
-
 ## 面试系列
 1. [Elasticsearch面试题](http://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
-
 
 ## 杂项
 1. [免费在线邮箱和短信平台](http://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
 
+
+> 以下为我的书单
+
+# 我的书单
 
 ## 今年计划书单
 - [x] 图解HTTP
@@ -68,13 +66,11 @@
 - [ ] 像间谍一样观察
 - [ ] 你凭什么做好互联网
 
-
 ## 已读书单
 推介星级
-
 - ★★★：值得一看，看了不会后悔的
 - ★★☆：可以一看，了解了解
-- ★☆☆：不推介，浪费你宝贵的生命
+- ★☆☆：不推荐，浪费你宝贵的生命
 
 ### Python
 - [x] ★★☆ **Python爬虫开发与项目实战**  <sub>`2017`</sup>
@@ -91,3 +87,19 @@
 ### 课外书
 - [x] ★★☆ **高等数学同济六版（上）**  <sub>`2018`</sup>
 - [x] ★★☆ **高等数学同济六版（下）**  <sub>`2018`</sup>
+
+
+>  以下为我的知识付费课程，包含但不仅限于电子书、视频、大牛博客/笔记等
+
+## 已学课程
+推介星级
+- ★★★：值得一看，看了不会后悔的
+- ★★☆：可以一看，了解了解
+- ★☆☆：不推荐，浪费你宝贵的生命
+
+### 前端
+- [x] ★★★ winter的重学前端  <sub>`2019`</sup>
+
+### 机器学习
+- [x] ★★☆ **基于Python玩转人工智能最火框架**  （不错的入门视频）<sub>`2019`</sup>
+- [x] ★☆☆ 唐XX机器学习系列中的两个系列（没看完，个人觉得不适合我的学习模式）  <sub>`2019`</sup>
