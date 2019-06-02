@@ -1,10 +1,8 @@
 [<img src="http://www.wenyuanblog.com/favicon.png" width="120" height="120">](http://www.wenyuanblog.com)
 
-
 # WY Blog
 
 个人主页：http://www.wenyuanblog.com/
-
 
 ## Python
 1. [时间和日期模块](http://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
@@ -18,6 +16,18 @@
 9. [实时获取tcpdump输出](http://www.wenyuanblog.com/blogs/python-realtime-tcpdump.html)
 
 
+## JavaScript
+1. [各种浏览器存储方式总结](http://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
+2. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
+3. [最全跨域问题解决方案](http://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
+
+
+## HTML5/CSS3
+1. [HTML5浏览器兼容性](http://www.wenyuanblog.com/blogs/html5-compatibility.html)
+2. [HTML5中的API](http://www.wenyuanblog.com/blogs/html5-apis.html)
+3. [CSS3新特性](http://www.wenyuanblog.com/blogs/css3-new-features.html)
+
+
 ## Elasticsearch
 1. [环境部署](http://www.wenyuanblog.com/blogs/elasticsearch-deployment.html)
 2. [索引备份与迁移](http://www.wenyuanblog.com/blogs/elasticsearch-backup-and-migration.html)
@@ -28,23 +38,19 @@
 7. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
 
-## 服务器
-1. [Nmap基础用法](http://www.wenyuanblog.com/blogs/nmap-basic-usage.html)
-2. [Nginx正向代理与反向代理](http://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html)
-3. [使用命令测试WebSocket](http://www.wenyuanblog.com/blogs/websocket-testing-by-command-in-linux.html)
-
-
 ## 机器学习
 1. [机器学习术语表](http://www.wenyuanblog.com/blogs/machine-learning-glossary.html)
 2. [【TensorFlow小记】基础知识](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-1.html)
 3. [【TensorFlow小记】线性回归案例](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-2.html)
-4. [【TensorFlow小记】CNN初探](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-3.html)
+4. [【TensorFlow小记】CNN初探](http://www.wenyuanblog.com/blogs/tensorflow-cnn-basic.html)
+5. [【TensorFlow小记】CNN文本分类原理](http://www.wenyuanblog.com/blogs/tensorflow-cnn-text-classification-theory.html)
+6. [【TensorFlow小记】CNN英文文本分类](http://www.wenyuanblog.com/blogs/tensorflow-cnn-english-text-classification-implement.html)
 
 
-## JavaScript
-1. [各种浏览器存储方式总结](http://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
-2. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
-3. [最全跨域问题解决方案](http://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
+## Linux
+1. [Nmap基础用法](http://www.wenyuanblog.com/blogs/nmap-basic-usage.html)
+2. [Nginx正向代理与反向代理](http://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html)
+3. [使用命令测试WebSocket](http://www.wenyuanblog.com/blogs/websocket-testing-by-command-in-linux.html)
 
 
 ## 面试系列
