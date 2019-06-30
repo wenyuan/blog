@@ -5,59 +5,63 @@
 个人主页：http://www.wenyuanblog.com/
 
 ## HTML5/CSS3
-1. [HTML5浏览器兼容性](http://www.wenyuanblog.com/blogs/html5-compatibility.html)
-2. [HTML5中的API](http://www.wenyuanblog.com/blogs/html5-apis.html)
-3. [CSS3新特性](http://www.wenyuanblog.com/blogs/css3-new-features.html)
+01. [HTML5浏览器兼容性](http://www.wenyuanblog.com/blogs/html5-compatibility.html)
+02. [HTML5中的API](http://www.wenyuanblog.com/blogs/html5-apis.html)
+03. [CSS3新特性](http://www.wenyuanblog.com/blogs/css3-new-features.html)
 
 ## JavaScript
-1. [JS中的继承](http://www.wenyuanblog.com/blogs/javascript-inheritance.html)
-2. [理解JS原型链](http://www.wenyuanblog.com/blogs/javascript-prototype-chain.html)
-3. [理解JS闭包](http://www.wenyuanblog.com/blogs/javascript-closure.html)
-4. [JS中函数的4种调用方式](http://www.wenyuanblog.com/blogs/javascript-4-ways-to-call-a-function.html)
-5. [JS判断数据类型](http://www.wenyuanblog.com/blogs/javascript-judge-data-type.html)
-6. [ES6常用重要知识点](http://www.wenyuanblog.com/blogs/javascript-es6-common-important-points.html)
-7. [各种浏览器存储方式总结](http://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
-8. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
-9. [最全跨域问题解决方案](http://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
+01. [JS中的继承](http://www.wenyuanblog.com/blogs/javascript-inheritance.html)
+02. [理解JS原型链](http://www.wenyuanblog.com/blogs/javascript-prototype-chain.html)
+03. [理解JS闭包](http://www.wenyuanblog.com/blogs/javascript-closure.html)
+04. [JS中函数的4种调用方式](http://www.wenyuanblog.com/blogs/javascript-4-ways-to-call-a-function.html)
+05. [JS判断数据类型](http://www.wenyuanblog.com/blogs/javascript-judge-data-type.html)
+06. [ES6常用重要知识点](http://www.wenyuanblog.com/blogs/javascript-es6-common-important-points.html)
+07. [JS库的封装之一：入口函数](http://www.wenyuanblog.com/blogs/javascript-library-packaging-1.html)
+08. [JS库的封装之二：添加方法](http://www.wenyuanblog.com/blogs/javascript-library-packaging-2.html)
+09. [JS库的封装之三：添加事件](http://www.wenyuanblog.com/blogs/javascript-library-packaging-3.html)
+10. [JS库的封装之四：代码整合](http://www.wenyuanblog.com/blogs/javascript-library-packaging-4.html)
+11. [各种浏览器存储方式总结](http://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
+12. [Web实时消息推送技术总结](http://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
+13. [最全跨域问题解决方案](http://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
 
 ## Python
-1. [时间和日期模块](http://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
-2. [文本文件读写](http://www.wenyuanblog.com/blogs/python-txt-files-io.html)
-3. [subprocess模块](http://www.wenyuanblog.com/blogs/python-subprocess.html)
-4. [SMTP发送邮件](http://www.wenyuanblog.com/blogs/python-send-email.html)
-5. [Matplotlib模块](http://www.wenyuanblog.com/blogs/python-matplotlib.html)
-6. [Pythonic风格](http://www.wenyuanblog.com/blogs/python-code-and-pythonic-code.html)
-7. [经典排序算法](http://www.wenyuanblog.com/blogs/python-sorting-algorithm.html)
-8. [单变量异常值检测](http://www.wenyuanblog.com/blogs/python-univariate-outlier-detection.html)
-9. [实时获取tcpdump输出](http://www.wenyuanblog.com/blogs/python-realtime-tcpdump.html)
+01. [时间和日期模块](http://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
+02. [文本文件读写](http://www.wenyuanblog.com/blogs/python-txt-files-io.html)
+03. [subprocess模块](http://www.wenyuanblog.com/blogs/python-subprocess.html)
+04. [SMTP发送邮件](http://www.wenyuanblog.com/blogs/python-send-email.html)
+05. [Matplotlib模块](http://www.wenyuanblog.com/blogs/python-matplotlib.html)
+06. [Pythonic风格](http://www.wenyuanblog.com/blogs/python-code-and-pythonic-code.html)
+07. [经典排序算法](http://www.wenyuanblog.com/blogs/python-sorting-algorithm.html)
+08. [单变量异常值检测](http://www.wenyuanblog.com/blogs/python-univariate-outlier-detection.html)
+09. [实时获取tcpdump输出](http://www.wenyuanblog.com/blogs/python-realtime-tcpdump.html)
 
 ## Elasticsearch
-1. [环境部署](http://www.wenyuanblog.com/blogs/elasticsearch-deployment.html)
-2. [索引备份与迁移](http://www.wenyuanblog.com/blogs/elasticsearch-backup-and-migration.html)
-3. [Query DSL入门](http://www.wenyuanblog.com/blogs/elasticsearch-simple-query-dsl.html)
-4. [Analyzer内部机制](http://www.wenyuanblog.com/blogs/elasticsearch-all-about-analyzers.html)
-5. [中文分词器](http://www.wenyuanblog.com/blogs/elasticsearch-chinese-analyzer.html)
-6. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
-7. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
+01. [环境部署](http://www.wenyuanblog.com/blogs/elasticsearch-deployment.html)
+02. [索引备份与迁移](http://www.wenyuanblog.com/blogs/elasticsearch-backup-and-migration.html)
+03. [Query DSL入门](http://www.wenyuanblog.com/blogs/elasticsearch-simple-query-dsl.html)
+04. [Analyzer内部机制](http://www.wenyuanblog.com/blogs/elasticsearch-all-about-analyzers.html)
+05. [中文分词器](http://www.wenyuanblog.com/blogs/elasticsearch-chinese-analyzer.html)
+06. [倒排索引原理](http://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
+07. [ES内存那些事儿](http://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
 ## 机器学习
-1. [机器学习术语表](http://www.wenyuanblog.com/blogs/machine-learning-glossary.html)
-2. [【TensorFlow小记】基础知识](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-1.html)
-3. [【TensorFlow小记】线性回归案例](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-2.html)
-4. [【TensorFlow小记】CNN初探](http://www.wenyuanblog.com/blogs/tensorflow-cnn-basic.html)
-5. [【TensorFlow小记】CNN文本分类原理](http://www.wenyuanblog.com/blogs/tensorflow-cnn-text-classification-theory.html)
-6. [【TensorFlow小记】CNN英文文本分类](http://www.wenyuanblog.com/blogs/tensorflow-cnn-english-text-classification-implement.html)
+01. [机器学习术语表](http://www.wenyuanblog.com/blogs/machine-learning-glossary.html)
+02. [【TensorFlow小记】基础知识](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-1.html)
+03. [【TensorFlow小记】线性回归案例](http://www.wenyuanblog.com/blogs/tensorflow-basic-learning-2.html)
+04. [【TensorFlow小记】CNN初探](http://www.wenyuanblog.com/blogs/tensorflow-cnn-basic.html)
+05. [【TensorFlow小记】CNN文本分类原理](http://www.wenyuanblog.com/blogs/tensorflow-cnn-text-classification-theory.html)
+06. [【TensorFlow小记】CNN英文文本分类](http://www.wenyuanblog.com/blogs/tensorflow-cnn-english-text-classification-implement.html)
 
 ## Linux
-1. [Nmap基础用法](http://www.wenyuanblog.com/blogs/nmap-basic-usage.html)
-2. [Nginx正向代理与反向代理](http://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html)
-3. [使用命令测试WebSocket](http://www.wenyuanblog.com/blogs/websocket-testing-by-command-in-linux.html)
+01. [Nmap基础用法](http://www.wenyuanblog.com/blogs/nmap-basic-usage.html)
+02. [Nginx正向代理与反向代理](http://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html)
+03. [使用命令测试WebSocket](http://www.wenyuanblog.com/blogs/websocket-testing-by-command-in-linux.html)
 
 ## 面试系列
-1. [Elasticsearch面试题](http://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
+01. [Elasticsearch面试题](http://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
 
 ## 杂项
-1. [免费在线邮箱和短信平台](http://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
+01. [免费在线邮箱和短信平台](http://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
 
 <br/>
 <br/>
