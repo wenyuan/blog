@@ -65,7 +65,7 @@
 01. [Elasticsearch面试题](https://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
 
 ## 杂项
-01. [前后端分离优缺点] (https://www.wenyuanblog.com/blogs/advantages-of-decoupling-frontend-from-backend.html)
+01. [前后端分离优缺点](https://www.wenyuanblog.com/blogs/advantages-of-decoupling-frontend-from-backend.html)
 02. [浅谈RESTful规范](https://www.wenyuanblog.com/blogs/restful-api-design.html) 
 03. [免费在线邮箱和短信平台](https://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
 04. [HTTP抓包神器 - Fiddler](https://www.wenyuanblog.com/blogs/fiddler-free-web-debugging-proxy.html)
