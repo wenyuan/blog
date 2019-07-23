@@ -5,10 +5,11 @@
 个人主页：https://www.wenyuanblog.com/
 
 ## Vue.js
+
 01. [Vue CLI 2.x搭建Vue项目](https://www.wenyuanblog.com/blogs/vue-cli2x-to-create-vue-project.html)
 02. [Vue CLI 3.x搭建Vue项目](https://www.wenyuanblog.com/blogs/vue-cli3x-to-create-vue-project.html)
 03. [Vue插件Plugins的简单例子](https://www.wenyuanblog.com/blogs/vue-plugins-simple-demo.html)
-04. [Vue封装全局过滤器Filters](https://www.wenyuanblog.com/blogs/vue-filters-simple-demo.html)
+04. [Vue封装全局过滤器Filters](https://www.wenyuanblog.com/blogs/vue-global-filters-packaging.html)
 
 ## JavaScript
 01. [JS中的继承](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
