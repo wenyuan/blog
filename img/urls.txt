@@ -53,6 +53,7 @@ https://www.wenyuanblog.com/blogs/vue-plugins-simple-demo.html
 https://www.wenyuanblog.com/blogs/vue-global-filters-packaging.html
 https://www.wenyuanblog.com/blogs/vue-axios-interceptors-packaging.html
 https://www.wenyuanblog.com/blogs/vue-use-mock-data-when-developing.html
+https://www.wenyuanblog.com/blogs/javascript-es6-arrow-functions.html
 
 
 https://www.wenyuanblog.com
