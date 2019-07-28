@@ -12,6 +12,8 @@
 04. [Vue封装全局过滤器Filters](https://www.wenyuanblog.com/blogs/vue-global-filters-packaging.html)
 05. [Vue封装axios请求和拦截器](https://www.wenyuanblog.com/blogs/vue-axios-interceptors-packaging.html)
 06. [Vue开发时配置使用mock数据](https://www.wenyuanblog.com/blogs/vue-use-mock-data-when-developing.html)
+07. [Vuex冷门知识点和踩坑记录](https://www.wenyuanblog.com/blogs/vue-vuex-matters-need-attention.html)
+08. [Vuex业务模块划分项目实例](https://www.wenyuanblog.com/blogs/vue-vuex-module-division-in-real-project.html)
 
 ## JavaScript
 01. [JS中的继承](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
