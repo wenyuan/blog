@@ -17,9 +17,9 @@
 09. [Vue项目打包编译优化](https://www.wenyuanblog.com/blogs/vue-project-compiling-optimization.html)
 
 ## JavaScript
-01. [JS中的继承](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
-02. [理解JS原型链](https://www.wenyuanblog.com/blogs/javascript-prototype-chain.html)
-03. [理解JS闭包](https://www.wenyuanblog.com/blogs/javascript-closure.html)
+01. [JavaScript继承详解](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
+02. [JavaScript原型链详解](https://www.wenyuanblog.com/blogs/javascript-prototype-chain.html)
+03. [JavaScript闭包详解](https://www.wenyuanblog.com/blogs/javascript-closure.html)
 04. [JS中函数的4种调用方式](https://www.wenyuanblog.com/blogs/javascript-4-ways-to-call-a-function.html)
 05. [JS判断数据类型](https://www.wenyuanblog.com/blogs/javascript-judge-data-type.html)
 06. [ES6常用重要知识点](https://www.wenyuanblog.com/blogs/javascript-es6-common-important-points.html)
