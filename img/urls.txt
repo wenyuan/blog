@@ -57,6 +57,7 @@ https://www.wenyuanblog.com/blogs/javascript-es6-arrow-functions.html
 https://www.wenyuanblog.com/blogs/vue-vuex-module-division-in-real-project.html
 https://www.wenyuanblog.com/blogs/vue-vuex-matters-need-attention.html
 https://www.wenyuanblog.com/blogs/vue-project-compiling-optimization.html
+https://www.wenyuanblog.com/blogs/html-coordinate-system-and-mouse-event.html
 
 
 https://www.wenyuanblog.com

@@ -31,6 +31,7 @@
 12. [各种浏览器存储方式总结](https://www.wenyuanblog.com/blogs/learn-more-about-browser-storage.html)
 13. [Web实时消息推送技术总结](https://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
 14. [最全跨域问题解决方案](https://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
+15. [HTML坐标系与鼠标事件坐标](https://www.wenyuanblog.com/blogs/html-coordinate-system-and-mouse-event.html)
 
 ## HTML5/CSS3
 01. [HTML5浏览器兼容性](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
@@ -43,7 +44,7 @@
 03. [subprocess模块](https://www.wenyuanblog.com/blogs/python-subprocess.html)
 04. [SMTP发送邮件](https://www.wenyuanblog.com/blogs/python-send-email.html)
 05. [Matplotlib模块](https://www.wenyuanblog.com/blogs/python-matplotlib.html)
-06. [Pythonic风格](https://www.wenyuanblog.com/blogs/python-code-and-pythonic-code.html)
+06. [Pythonic风格整理](https://www.wenyuanblog.com/blogs/python-code-and-pythonic-code.html)
 07. [经典排序算法](https://www.wenyuanblog.com/blogs/python-sorting-algorithm.html)
 08. [单变量异常值检测](https://www.wenyuanblog.com/blogs/python-univariate-outlier-detection.html)
 09. [实时获取tcpdump输出](https://www.wenyuanblog.com/blogs/python-realtime-tcpdump.html)
@@ -85,63 +86,47 @@
 <br/>
 
 > ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br/>
-> 以下为我的书单（实体书）<br/>
+> 以下为我的学习计划，包含但不仅限于实体书、电子书、视频、大牛博客/笔记等<br/>
 > ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-# 我的书单
+# 我的学习计划
 
-## 今年计划书单
+## 今年计划学习
 - [x] 图解HTTP
 - [ ] 图解TCP/IP
 - [ ] Elasticsearch源码解析与优化实战
 - [ ] 像间谍一样观察
 - [ ] 你凭什么做好互联网
 
-## 已读书单
-推荐星级
-- ★★★：值得一看，看了不会后悔的
-- ★★☆：可以一看，了解了解
-- ★☆☆：不推荐
-
-### Python
-- [x] ★★☆ **Python爬虫开发与项目实战**  <sub>`2017`</sup>
-- [x] ★★☆ **Python3网络爬虫开发实战**  <sub>`2017`</sup>
-- [x] ★☆☆ 跟老齐学Python：Django实战  <sub>`2018`</sup>
-
-### Elasticsearch
-- [x] ★★★ **深入理解Elasticsearch**  <sub>`2018`</sup>
-- [x] ★★☆ **从Lucene到Elasticsearch 全文检索实战**  <sub>`2018`</sup>
-
-### MySQL
-- [x] ★★☆ **深入浅出MySQL：数据库开发、优化与管理维护**  <sub>`2017`</sup>
-
-### 课外书
-
-- [x] ★★☆ **高等数学同济六版（上）**  <sub>`2018`</sup>
-- [x] ★★☆ **高等数学同济六版（下）**  <sub>`2018`</sup>
-
-<br/>
-<br/>
-
-> ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br/>
-> 以下为我的知识付费课程，包含但不仅限于电子书、视频、大牛博客/笔记等<br/>
-> ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
-
-# 知识付费
-
-## 已学课程
-
+## 已完成学习
 推荐星级
 - ★★★：值得一看，看了不会后悔的
 - ★★☆：可以一看，了解了解
 - ★☆☆：不推荐
 
 ### 前端
-- [x] ★★★ 极客时间：重学前端  <sub>`2019`</sup>
+- [x] ★★☆ 极客时间：重学前端  <sub>`2019`</sup>
+
+### Python
+- [x] ★★☆ **Python爬虫开发与项目实战**  <sub>`2017`</sup>
+- [x] ★★☆ **Python3网络爬虫开发实战**  <sub>`2017`</sup>
+- [x] ★☆☆ 跟老齐学Python：Django实战  <sub>`2018`</sup>
+
+### MySQL
+- [x] ★★☆ **深入浅出MySQL：数据库开发、优化与管理维护**  <sub>`2017`</sup>
+
+### Elasticsearch
+- [x] ★★☆ **深入理解Elasticsearch**  <sub>`2018`</sup>
+- [x] ★★☆ **从Lucene到Elasticsearch 全文检索实战**  <sub>`2018`</sup>
 
 ### 机器学习
 - [x] ★★☆ **基于Python玩转人工智能最火框架**  <sub>`2019`</sup>
 - [x] ★☆☆ 唐XX机器学习系列中的两个系列（没看完）  <sub>`2019`</sup>
+
+### 课外书
+
+- [x] ★★☆ **高等数学同济六版（上）**  <sub>`2018`</sup>
+- [x] ★★☆ **高等数学同济六版（下）**  <sub>`2018`</sup>
 
 
 ###### PS：一千个读者，就有一千个哈姆雷特，上述标记为“不推荐”只是个人学习过后的感受，并非否定作者或作品，望知悉
