@@ -15,6 +15,8 @@
 07. [Vuex业务模块划分项目实例](https://www.wenyuanblog.com/blogs/vue-vuex-module-division-in-real-project.html)
 08. [Vuex冷门知识点和踩坑记录](https://www.wenyuanblog.com/blogs/vue-vuex-matters-need-attention.html)
 09. [Vue项目打包编译优化](https://www.wenyuanblog.com/blogs/vue-project-compiling-optimization.html)
+10. [Vue监听值改变事件与函数去抖](https://www.wenyuanblog.com/blogs/vue-on-change-event-and-debounce.html)
+11. [在JS文件中获取Vue组件实例](https://www.wenyuanblog.com/blogs/vue-get-the-component-instance-in-javascript-file.html)
 
 ## JavaScript
 01. [JavaScript继承详解](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
