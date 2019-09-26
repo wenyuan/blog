@@ -34,6 +34,7 @@
 13. [Web实时消息推送技术总结](https://www.wenyuanblog.com/blogs/realtime-messaging-and-websocket.html)
 14. [最全跨域问题解决方案](https://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
 15. [HTML坐标系与鼠标事件坐标](https://www.wenyuanblog.com/blogs/html-coordinate-system-and-mouse-event.html)
+16. [JavaScript模块化编程](https://www.wenyuanblog.com/blogs/javascript-module.html)
 
 ## HTML5/CSS3
 01. [HTML5浏览器兼容性](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
