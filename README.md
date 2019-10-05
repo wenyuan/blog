@@ -5,7 +5,6 @@
 个人主页：https://www.wenyuanblog.com/
 
 ## Vue.js
-
 01. [Vue CLI 2.x搭建Vue项目](https://www.wenyuanblog.com/blogs/vue-cli2x-to-create-vue-project.html)
 02. [Vue CLI 3.x搭建Vue项目](https://www.wenyuanblog.com/blogs/vue-cli3x-to-create-vue-project.html)
 03. [Vue插件Plugins的简单例子](https://www.wenyuanblog.com/blogs/vue-plugins-simple-demo.html)
@@ -17,6 +16,9 @@
 09. [Vue项目打包编译优化](https://www.wenyuanblog.com/blogs/vue-project-compiling-optimization.html)
 10. [Vue监听值改变事件与函数去抖](https://www.wenyuanblog.com/blogs/vue-on-change-event-and-debounce.html)
 11. [在JS文件中获取Vue组件实例](https://www.wenyuanblog.com/blogs/vue-get-the-component-instance-in-javascript-file.html)
+
+## Node.js
+01. [nodejs安装及npm全局设置](https://www.wenyuanblog.com/blogs/nodejs-install-and-npm-global-config.html)
 
 ## JavaScript
 01. [JavaScript继承详解](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
@@ -77,13 +79,16 @@
 ## 面试系列
 01. [Elasticsearch面试题](https://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
 
-## 杂项
+## 其它
 01. [前后端分离优缺点](https://www.wenyuanblog.com/blogs/advantages-of-decoupling-frontend-from-backend.html)
 02. [浅谈RESTful规范](https://www.wenyuanblog.com/blogs/restful-api-design.html) 
 03. [免费在线邮箱和短信平台](https://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
 04. [HTTP抓包神器 - Fiddler](https://www.wenyuanblog.com/blogs/fiddler-free-web-debugging-proxy.html)
 05. [WebStorm配置代码格式化](https://www.wenyuanblog.com/blogs/webstorm-eslint-prettier-reformat-code.html)
 
+## 读书笔记
+01. [2019知识星球学习笔记](https://www.wenyuanblog.com/blogs/reading-notes-zhi-shi-xing-qiu-2019.html)
+02. [《你没有退路，才有出路》读书笔记](https://www.wenyuanblog.com/blogs/reading-notes-ni-mei-you-tui-lu-cai-you-chu-lu.html)
 
 <br/>
 <br/>
