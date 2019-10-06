@@ -65,5 +65,6 @@ https://www.wenyuanblog.com/blogs/javascript-module.html
 https://www.wenyuanblog.com/blogs/nodejs-install-and-npm-global-config.html
 https://www.wenyuanblog.com/blogs/reading-notes-zhi-shi-xing-qiu-2019.html
 https://www.wenyuanblog.com/blogs/reading-notes-ni-mei-you-tui-lu-cai-you-chu-lu.html
+https://www.wenyuanblog.com/blogs/mysql-install-in-windows.html
 
 https://www.wenyuanblog.com

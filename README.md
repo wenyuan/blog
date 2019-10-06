@@ -63,6 +63,10 @@
 06. [倒排索引原理](https://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
 07. [ES内存那些事儿](https://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
+## MySQL
+01. [Windows环境安装MySQL5.7](https://www.wenyuanblog.com/blogs/mysql-install-in-windows.html)
+02. [Linux连接MySQL命令表](https://www.wenyuanblog.com/blogs/mysql-command-in-linux.html)
+
 ## 机器学习
 01. [机器学习术语表](https://www.wenyuanblog.com/blogs/machine-learning-glossary.html)
 02. [【TensorFlow小记】基础知识](https://www.wenyuanblog.com/blogs/tensorflow-basic-learning-1.html)
