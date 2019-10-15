@@ -93,6 +93,7 @@
 ## 读书笔记
 01. [2019知识星球学习笔记](https://www.wenyuanblog.com/blogs/reading-notes-zhi-shi-xing-qiu-2019.html)
 02. [《你没有退路，才有出路》读书笔记](https://www.wenyuanblog.com/blogs/reading-notes-ni-mei-you-tui-lu-cai-you-chu-lu.html)
+03. [《小狗钱钱》读书笔记](https://www.wenyuanblog.com/blogs/reading-notes-xiao-gou-qian-qian.html)
 
 <br/>
 <br/>
