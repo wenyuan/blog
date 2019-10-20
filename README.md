@@ -16,6 +16,7 @@
 09. [Vue项目打包编译优化](https://www.wenyuanblog.com/blogs/vue-project-compiling-optimization.html)
 10. [Vue监听值改变事件与函数去抖](https://www.wenyuanblog.com/blogs/vue-on-change-event-and-debounce.html)
 11. [在JS文件中获取Vue组件实例](https://www.wenyuanblog.com/blogs/vue-get-the-component-instance-in-javascript-file.html)
+12. [Vue踩坑：父子组件传值问题](https://www.wenyuanblog.com/blogs/vue-pit-child-component-value-changes-affect-the-parent-component-value.html)
 
 ## Node.js
 01. [nodejs安装及npm全局设置](https://www.wenyuanblog.com/blogs/nodejs-install-and-npm-global-config.html)
