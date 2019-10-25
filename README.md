@@ -3,6 +3,7 @@
 # 闻鸢 个人博客
 
 一个90后程序员，热爱编程，目前从事前后端开发工作。
+
 期待认识更多志同道合的朋友，互相学习、共同进步。
 
 个人主页：https://www.wenyuanblog.com/
@@ -98,7 +99,7 @@
 02. [《你没有退路，才有出路》读书笔记](https://www.wenyuanblog.com/blogs/reading-notes-ni-mei-you-tui-lu-cai-you-chu-lu.html)
 03. [《小狗钱钱》读书笔记](https://www.wenyuanblog.com/blogs/reading-notes-xiao-gou-qian-qian.html)
 
-# 杂
+## 杂
 01. [免费在线邮箱和短信平台](https://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
 
 
@@ -132,7 +133,7 @@
 - [x] ★★☆ **基于Python玩转人工智能最火框架**  <sub>`2019`</sub>
 - [x] ★☆☆ 唐XX机器学习系列中的两个系列（没看完）  <sub>`2019`</sub>
 
-### 基础知识
+### 其他工作技能
 - [x] ★★☆ **图解HTTP**  <sub>`2019`</sub>
 
 ### 课外书
