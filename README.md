@@ -1,6 +1,9 @@
 [<img src="https://www.wenyuanblog.com/favicon.png" width="120" height="120">](https://www.wenyuanblog.com)
 
-# WY Blog
+# 闻鸢 个人博客
+
+一个90后程序员，热爱编程，目前从事前后端开发工作。
+期待认识更多志同道合的朋友，互相学习、共同进步。
 
 个人主页：https://www.wenyuanblog.com/
 
@@ -84,10 +87,9 @@
 ## 面试系列
 01. [Elasticsearch面试题](https://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
 
-## 其它
+## 工作周边
 01. [前后端分离优缺点](https://www.wenyuanblog.com/blogs/advantages-of-decoupling-frontend-from-backend.html)
 02. [浅谈RESTful规范](https://www.wenyuanblog.com/blogs/restful-api-design.html) 
-03. [免费在线邮箱和短信平台](https://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
 04. [HTTP抓包神器 - Fiddler](https://www.wenyuanblog.com/blogs/fiddler-free-web-debugging-proxy.html)
 05. [WebStorm配置代码格式化](https://www.wenyuanblog.com/blogs/webstorm-eslint-prettier-reformat-code.html)
 
@@ -96,26 +98,19 @@
 02. [《你没有退路，才有出路》读书笔记](https://www.wenyuanblog.com/blogs/reading-notes-ni-mei-you-tui-lu-cai-you-chu-lu.html)
 03. [《小狗钱钱》读书笔记](https://www.wenyuanblog.com/blogs/reading-notes-xiao-gou-qian-qian.html)
 
+# 杂
+01. [免费在线邮箱和短信平台](https://www.wenyuanblog.com/blogs/online-email-and-sms-platforms.html)
+
+
 <br/>
 <br/>
 
-> ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br/>
-> 以下为我的学习计划，包含但不仅限于实体书、电子书、视频、大牛博客/笔记等<br/>
-> ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
-
-# 我的学习计划
-
-## 今年计划学习
-- [x] 图解HTTP
-- [ ] 图解TCP/IP
-- [ ] Elasticsearch源码解析与优化实战
-- [ ] 像间谍一样观察
-- [ ] 你凭什么做好互联网
+# 学习之路
 
 ## 已完成学习
 推荐星级
 - ★★★：值得一看，看了不会后悔的
-- ★★☆：可以一看，了解了解
+- ★★☆：可以一看，能学到点东西
 - ★☆☆：不推荐
 
 ### 前端
@@ -137,11 +132,11 @@
 - [x] ★★☆ **基于Python玩转人工智能最火框架**  <sub>`2019`</sub>
 - [x] ★☆☆ 唐XX机器学习系列中的两个系列（没看完）  <sub>`2019`</sub>
 
-### 课外书
+### 基础知识
+- [x] ★★☆ **图解HTTP**  <sub>`2019`</sub>
 
+### 课外书
 - [x] ★★★ **小狗钱钱**  <sub>`2019`</sub>
-- [x] ★★☆ **高等数学同济六版（上）**  <sub>`2018`</sub>
-- [x] ★★☆ **高等数学同济六版（下）**  <sub>`2018`</sub>
 
 
 ###### PS：一千个读者，就有一千个哈姆雷特，上述标记为“不推荐”只是个人学习过后的感受，并非否定作者或作品，望知悉
