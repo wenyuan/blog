@@ -44,9 +44,9 @@
 16. [JavaScript模块化编程](https://www.wenyuanblog.com/blogs/javascript-module.html)
 
 ## HTML5/CSS3
-01. [HTML5浏览器兼容性](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
-02. [HTML5中的API](https://www.wenyuanblog.com/blogs/html5-apis.html)
-03. [CSS3新特性](https://www.wenyuanblog.com/blogs/css3-new-features.html)
+01. [HTML5浏览器兼容性解决方案](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
+02. [HTML5中的API概览](https://www.wenyuanblog.com/blogs/html5-apis.html)
+03. [CSS3新特性概览](https://www.wenyuanblog.com/blogs/css3-new-features.html)
 
 ## Python
 01. [时间和日期模块](https://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
