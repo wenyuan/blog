@@ -47,6 +47,7 @@
 01. [HTML5浏览器兼容性解决方案](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
 02. [HTML5中的API概览](https://www.wenyuanblog.com/blogs/html5-apis.html)
 03. [CSS3新特性概览](https://www.wenyuanblog.com/blogs/css3-new-features.html)
+04. [一文掌握主流CSS布局](https://www.wenyuanblog.com/blogs/css-layout.html)
 
 ## Python
 01. [时间和日期模块](https://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
