@@ -26,11 +26,11 @@
 01. [nodejs安装及npm全局设置](https://www.wenyuanblog.com/blogs/nodejs-install-and-npm-global-config.html)
 
 ## JavaScript
-01. [JavaScript继承详解](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
-02. [JavaScript原型链详解](https://www.wenyuanblog.com/blogs/javascript-prototype-chain.html)
-03. [JavaScript闭包详解](https://www.wenyuanblog.com/blogs/javascript-closure.html)
-04. [JS中函数的4种调用方式](https://www.wenyuanblog.com/blogs/javascript-4-ways-to-call-a-function.html)
-05. [JS判断数据类型](https://www.wenyuanblog.com/blogs/javascript-judge-data-type.html)
+01. [JavaScript初探之继承](https://www.wenyuanblog.com/blogs/javascript-inheritance.html)
+02. [JavaScript初探之原型链](https://www.wenyuanblog.com/blogs/javascript-prototype-chain.html)
+03. [JavaScript初探之闭包](https://www.wenyuanblog.com/blogs/javascript-closure.html)
+04. [JavaScript初探之函数调用方式](https://www.wenyuanblog.com/blogs/javascript-4-ways-to-call-a-function.html)
+05. [JavaScript初探之判断数据类型](https://www.wenyuanblog.com/blogs/javascript-judge-data-type.html)
 06. [ES6常用重要知识点](https://www.wenyuanblog.com/blogs/javascript-es6-common-important-points.html)
 07. [ES6箭头函数总结](https://www.wenyuanblog.com/blogs/javascript-es6-arrow-functions.html)
 08. [JS库的封装之一：入口函数](https://www.wenyuanblog.com/blogs/javascript-library-packaging-1.html)
@@ -47,7 +47,7 @@
 01. [HTML5浏览器兼容性解决方案](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
 02. [HTML5中的API概览](https://www.wenyuanblog.com/blogs/html5-apis.html)
 03. [CSS3新特性概览](https://www.wenyuanblog.com/blogs/css3-new-features.html)
-04. [一文掌握主流CSS布局](https://www.wenyuanblog.com/blogs/css-layout.html)
+04. [一文详解主流CSS布局](https://www.wenyuanblog.com/blogs/css-layout.html)
 
 ## Python
 01. [时间和日期模块](https://www.wenyuanblog.com/blogs/python-time-and-datetime.html)
