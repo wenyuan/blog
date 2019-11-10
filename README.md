@@ -94,6 +94,7 @@
 02. [浅谈RESTful规范](https://www.wenyuanblog.com/blogs/restful-api-design.html) 
 04. [HTTP抓包神器 - Fiddler](https://www.wenyuanblog.com/blogs/fiddler-free-web-debugging-proxy.html)
 05. [WebStorm配置代码格式化](https://www.wenyuanblog.com/blogs/webstorm-eslint-prettier-reformat-code.html)
+06. [将Notepad3关联到右键菜单](https://www.wenyuanblog.com/blogs/add-text-editors-to-rignt-menu-by-regedit-in-windows.html)
 
 ## 读书笔记
 01. [2019知识星球学习笔记](https://www.wenyuanblog.com/blogs/reading-notes-zhi-shi-xing-qiu-2019.html)
