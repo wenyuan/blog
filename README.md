@@ -86,6 +86,10 @@
 02. [Nginx正向代理与反向代理](https://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html)
 03. [使用命令测试WebSocket](https://www.wenyuanblog.com/blogs/websocket-testing-by-command-in-linux.html)
 
+## 版本控制
+01. [Git提交信息规范](https://www.wenyuanblog.com/blogs/git-commit-message.html)
+02. [Git迁移仓库并保留commit记录](https://www.wenyuanblog.com/blogs/git-migrate-repository-without-losing-history-commit.html)
+
 ## 面试系列
 01. [Elasticsearch面试题](https://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
 
