@@ -1,4 +1,16 @@
-[<img src="https://www.wenyuanblog.com/favicon.png" width="120" height="120">](https://www.wenyuanblog.com)
+# 闻鸢同学
+
+<p align="center">
+  <img src="https://www.wenyuanblog.com/favicon.png" alt="wenyuanblog.com" width="200" hegiht="200"/>
+</p>
+
+<p align="center">
+  <img alt="language" src="https://img.shields.io/badge/language-md-brightgreen.svg?style=flat-square">
+  <img alt="license" src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square">
+  <img alt="version" src="https://img.shields.io/badge/version-2019-blue.svg?style=flat-square">
+  <img alt="keywords" src="https://img.shields.io/badge/keywords-frontend,backend-blue.svg?style=flat-square">
+</p>
+<br/>
 
 # 一、个人博客
 
