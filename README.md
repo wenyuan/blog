@@ -1,4 +1,4 @@
-[<img src="https://github.com/winyuan/blog/blob/master/img/logo.png" width="120" height="120">](https://www.wenyuanblog.com)
+[<img src="https://www.wenyuanblog.com/favicon.png" width="120" height="120">](https://www.wenyuanblog.com)
 
 # 一、个人博客
 
