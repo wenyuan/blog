@@ -1,7 +1,7 @@
 # 闻鸢同学
 
 <p align="center">
-  <img src="https://www.wenyuanblog.com/favicon.png" alt="wenyuanblog.com" width="200" hegiht="200"/>
+  <img src="https://www.wenyuanblog.com/favicon.png" alt="wenyuanblog.com" width="160" hegiht="160"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,6 @@
   <img alt="version" src="https://img.shields.io/badge/version-2019-blue.svg?style=flat-square">
   <img alt="keywords" src="https://img.shields.io/badge/keywords-frontend,backend-blue.svg?style=flat-square">
 </p>
-<br/>
 
 # 一、个人博客
 
