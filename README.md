@@ -1,7 +1,7 @@
 # 闻鸢同学
 
 <p align="center">
-  <img src="https://www.wenyuanblog.com/favicon.png" alt="wenyuanblog.com" width="160" hegiht="160"/>
+  <img src="https://www.wenyuanblog.com/medias/logo/wy.png" alt="wenyuanblog.com" width="160" hegiht="160"/>
 </p>
 
 <p align="center">
