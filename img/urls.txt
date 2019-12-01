@@ -73,5 +73,6 @@ https://www.wenyuanblog.com/blogs/vue-pit-child-component-value-changes-affect-t
 https://www.wenyuanblog.com/blogs/css-layout.html
 https://www.wenyuanblog.com/blogs/add-text-editors-to-rignt-menu-by-regedit-in-windows.html
 https://www.wenyuanblog.com/blogs/git-migrate-repository-without-losing-history-commit.html
+https://www.wenyuanblog.com/blogs/humor-thanks-for-inventing-javascript.html
 
 https://www.wenyuanblog.com

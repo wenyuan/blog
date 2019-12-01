@@ -53,6 +53,7 @@
 14. [最全跨域问题解决方案](https://www.wenyuanblog.com/blogs/ajax-cross-domain-solution.html)
 15. [HTML坐标系与鼠标事件坐标](https://www.wenyuanblog.com/blogs/html-coordinate-system-and-mouse-event.html)
 16. [JavaScript模块化编程](https://www.wenyuanblog.com/blogs/javascript-module.html)
+17. [有趣的JavaScript - 精度丢失和隐式类型转换](https://www.wenyuanblog.com/blogs/humor-thanks-for-inventing-javascript.html)
 
 ## HTML5/CSS3
 01. [HTML5浏览器兼容性解决方案](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
