@@ -54,6 +54,7 @@
 15. [HTML坐标系与鼠标事件坐标](https://www.wenyuanblog.com/blogs/html-coordinate-system-and-mouse-event.html)
 16. [JavaScript模块化编程](https://www.wenyuanblog.com/blogs/javascript-module.html)
 17. [有趣的JavaScript - 精度丢失和隐式类型转换](https://www.wenyuanblog.com/blogs/humor-thanks-for-inventing-javascript.html)
+18. [如何将Promise.then中的值直接return出来](https://www.wenyuanblog.com/blogs/javascript-how-to-return-value-in-promise.html)
 
 ## HTML5/CSS3
 01. [HTML5浏览器兼容性解决方案](https://www.wenyuanblog.com/blogs/html5-compatibility.html)
