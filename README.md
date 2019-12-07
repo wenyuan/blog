@@ -106,12 +106,16 @@
 ## 面试系列
 01. [Elasticsearch面试题](https://www.wenyuanblog.com/blogs/elasticsearch-interview-questions.html)
 
-## 工作周边
+## 技术周边
 01. [前后端分离优缺点](https://www.wenyuanblog.com/blogs/advantages-of-decoupling-frontend-from-backend.html)
 02. [浅谈RESTful规范](https://www.wenyuanblog.com/blogs/restful-api-design.html) 
 04. [HTTP抓包神器 - Fiddler](https://www.wenyuanblog.com/blogs/fiddler-free-web-debugging-proxy.html)
 05. [WebStorm配置代码格式化](https://www.wenyuanblog.com/blogs/webstorm-eslint-prettier-reformat-code.html)
 06. [Notepad3关联鼠标右键菜单](https://www.wenyuanblog.com/blogs/add-text-editors-to-rignt-menu-by-regedit-in-windows.html)
+07. [中文文案排版指北【译】](https://www.wenyuanblog.com/blogs/chinese-copywriting-guidelines.html)
+
+## 跨界学习
+01. [运营岗位的18个入门专业术语](https://www.wenyuanblog.com/blogs/18-technical-terms-for-an-operations-position.html)
 
 ## 读书笔记
 01. [2019知识星球学习笔记](https://www.wenyuanblog.com/blogs/reading-notes-zhi-shi-xing-qiu-2019.html)
@@ -124,13 +128,13 @@
 <br/>
 <br/>
 
-# 二、学习之路
+# 二、我的书单
 
-## 已完成学习
+## 已读书单
 推荐星级
 - ★★★：值得一看，看了不会后悔的
 - ★★☆：可以一看，能学到点东西
-- ★☆☆：不推荐
+- ★☆☆：不推荐，除非你真的闲得慌
 
 ### 前端
 - [x] ★★☆ 极客时间：重学前端  <sub>`2019`</sub>
@@ -145,17 +149,14 @@
 
 ### Elasticsearch
 - [x] ★★☆ **深入理解Elasticsearch**  <sub>`2018`</sub>
-- [x] ★★☆ **从Lucene到Elasticsearch 全文检索实战**  <sub>`2018`</sub>
+- [x] ★☆☆ 从Lucene到Elasticsearch 全文检索实战  <sub>`2018`</sub>
 
-### 机器学习
-- [x] ★★☆ **基于Python玩转人工智能最火框架**  <sub>`2019`</sub>
-- [x] ★☆☆ 唐XX机器学习系列中的两个系列（没看完）  <sub>`2019`</sub>
-
-### 其他工作技能
+### 其他技术书
 - [x] ★★☆ **图解HTTP**  <sub>`2019`</sub>
 
 ### 课外书
-- [x] ★★★ **小狗钱钱**  <sub>`2019`</sub>
+- [x] ★★☆ **小狗钱钱**  <sub>`2019`</sub>
+- [x] ★☆☆ 新媒体运营：产品运营+内容运营+用户运营+活动运营  <sub>`2019`</sub>
 
 <br/>
 
