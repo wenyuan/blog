@@ -116,6 +116,7 @@
 
 ## 跨界学习
 01. [运营岗位的18个入门专业术语](https://www.wenyuanblog.com/blogs/18-technical-terms-for-an-operations-position.html)
+02. [什么是用户运营、产品运营、活动运营和内容运营](https://www.wenyuanblog.com/blogs/content-operation-activity-operation-product-operation-user-operation.html)
 
 ## 读书笔记
 01. [2019知识星球学习笔记](https://www.wenyuanblog.com/blogs/reading-notes-zhi-shi-xing-qiu-2019.html)
