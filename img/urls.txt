@@ -78,5 +78,7 @@ https://www.wenyuanblog.com/blogs/javascript-how-to-return-value-in-promise.html
 https://www.wenyuanblog.com/blogs/chinese-copywriting-guidelines.html
 https://www.wenyuanblog.com/blogs/18-technical-terms-for-an-operations-position.html
 https://www.wenyuanblog.com/blogs/content-operation-activity-operation-product-operation-user-operation.html
+https://www.wenyuanblog.com/blogs/introduction-guide-to-insurance.html
+https://www.wenyuanblog.com/blogs/vue-pit-vue-router-params-is-empty.html
 
 https://www.wenyuanblog.com

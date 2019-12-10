@@ -32,6 +32,7 @@
 10. [Vue监听值改变事件与函数去抖](https://www.wenyuanblog.com/blogs/vue-on-change-event-and-debounce.html)
 11. [在JS文件中获取Vue组件实例](https://www.wenyuanblog.com/blogs/vue-get-the-component-instance-in-javascript-file.html)
 12. [Vue踩坑：父子组件传值问题](https://www.wenyuanblog.com/blogs/vue-pit-child-component-value-changes-affect-the-parent-component-value.html)
+13. [Vue踩坑：vue-router传参params为空](https://www.wenyuanblog.com/blogs/vue-pit-vue-router-params-is-empty.html)
 
 ## Node.js
 01. [nodejs安装及npm全局设置](https://www.wenyuanblog.com/blogs/nodejs-install-and-npm-global-config.html)
@@ -117,6 +118,7 @@
 ## 跨界学习
 01. [运营岗位的18个入门专业术语](https://www.wenyuanblog.com/blogs/18-technical-terms-for-an-operations-position.html)
 02. [什么是用户运营、产品运营、活动运营和内容运营](https://www.wenyuanblog.com/blogs/content-operation-activity-operation-product-operation-user-operation.html)
+03. [保险小白入门指南](https://www.wenyuanblog.com/blogs/introduction-guide-to-insurance.html)
 
 ## 读书笔记
 01. [2019知识星球学习笔记](https://www.wenyuanblog.com/blogs/reading-notes-zhi-shi-xing-qiu-2019.html)
