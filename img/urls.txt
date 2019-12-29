@@ -81,4 +81,6 @@ https://www.wenyuanblog.com/blogs/content-operation-activity-operation-product-o
 https://www.wenyuanblog.com/blogs/introduction-guide-to-insurance.html
 https://www.wenyuanblog.com/blogs/vue-pit-vue-router-params-is-empty.html
 
+https://www.wenyuanblog.com/blogs/git-change-user-name-and-email-in-history-commits.html
+
 https://www.wenyuanblog.com
