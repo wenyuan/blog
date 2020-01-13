@@ -113,7 +113,8 @@
 04. [HTTP抓包神器 - Fiddler](https://www.wenyuanblog.com/blogs/fiddler-free-web-debugging-proxy.html)
 05. [WebStorm配置代码格式化](https://www.wenyuanblog.com/blogs/webstorm-eslint-prettier-reformat-code.html)
 06. [Notepad3关联鼠标右键菜单](https://www.wenyuanblog.com/blogs/add-text-editors-to-rignt-menu-by-regedit-in-windows.html)
-07. [中文文案排版指北【译】](https://www.wenyuanblog.com/blogs/chinese-copywriting-guidelines.html)
+07. [程序员技术文档写作规范](https://www.wenyuanblog.com/blogs/chinese-copywriting-guidelines.html)
+8. [网页UI设计原则与规范](https://www.wenyuanblog.com/blogs/ui-design-spec-for-pc-web.html)
 
 ## 跨界学习
 01. [运营岗位的18个入门专业术语](https://www.wenyuanblog.com/blogs/18-technical-terms-for-an-operations-position.html)
