@@ -85,5 +85,6 @@ https://www.wenyuanblog.com/blogs/git-change-user-name-and-email-in-history-comm
 https://www.wenyuanblog.com/blogs/annual-summary-2019.html
 https://www.wenyuanblog.com/blogs/css-mouse-hover-card-float-effects.html
 https://www.wenyuanblog.com/blogs/reading-notes-yang-cong-yue-du-fa.html
+https://www.wenyuanblog.com/books/
 
 https://www.wenyuanblog.com
