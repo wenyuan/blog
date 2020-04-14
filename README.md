@@ -80,7 +80,7 @@
 03. [Query DSL入门](https://www.wenyuanblog.com/blogs/elasticsearch-simple-query-dsl.html)
 04. [Analyzer内部机制](https://www.wenyuanblog.com/blogs/elasticsearch-all-about-analyzers.html)
 05. [中文分词器](https://www.wenyuanblog.com/blogs/elasticsearch-chinese-analyzer.html)
-06. [倒排索引原理](https://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html)
+06. [倒排索引原理](https://www.wenyuanblog.com/blogs/elasticsearch-forward-index-and-inverted-index.html)
 07. [ES内存那些事儿](https://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html)
 
 ## MySQL

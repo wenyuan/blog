@@ -9,7 +9,7 @@ https://www.wenyuanblog.com/blogs/elasticsearch-backup-and-migration.html
 https://www.wenyuanblog.com/blogs/elasticsearch-simple-query-dsl.html
 https://www.wenyuanblog.com/blogs/elasticsearch-all-about-analyzers.html
 https://www.wenyuanblog.com/blogs/elasticsearch-chinese-analyzer.html
-https://www.wenyuanblog.com/blogs/forward-index-and-inverted-index.html
+https://www.wenyuanblog.com/blogs/elasticsearch-forward-index-and-inverted-index.html
 https://www.wenyuanblog.com/blogs/elasticsearch-memory-considerations.html
 https://www.wenyuanblog.com/blogs/nmap-basic-usage.html
 https://www.wenyuanblog.com/blogs/nginx-forward-proxy-and-reverse-proxy.html
