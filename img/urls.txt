@@ -95,5 +95,6 @@ https://www.wenyuanblog.com/blogs/how-to-define-the-software-version-number.html
 https://www.wenyuanblog.com/blogs/what-happens-from-the-input-url-to-the-presentation-of-the-page.html
 https://www.wenyuanblog.com/blogs/javascript-what-is-a-closure.html
 https://www.wenyuanblog.com/blogs/javascript-what-is-this-keyword-inside-a-function.html
+https://www.wenyuanblog.com/blogs/javascript-what-is-execution-context-and-call-stack.html
 
 https://www.wenyuanblog.com
