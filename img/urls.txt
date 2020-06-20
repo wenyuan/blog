@@ -98,5 +98,6 @@ https://www.wenyuanblog.com/blogs/javascript-what-is-this-keyword-inside-a-funct
 https://www.wenyuanblog.com/blogs/javascript-what-is-execution-context-and-call-stack.html
 https://www.wenyuanblog.com/blogs/reading-notes-gan-fa.html
 https://www.wenyuanblog.com/blogs/javascript-promise-async-await.html
+https://www.wenyuanblog.com/blogs/javascript-event-loop.html
 
 https://www.wenyuanblog.com
