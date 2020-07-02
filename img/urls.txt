@@ -103,5 +103,6 @@ https://www.wenyuanblog.com/blogs/reading-notes-fei-bao-li-gou-tong.html
 https://www.wenyuanblog.com/blogs/reading-notes-xiao-shou-jiu-shi-yao-wan-zhuan-qing-shang.html
 
 https://www.wenyuanblog.com/blogs/git-common-command-manual.html
+https://www.wenyuanblog.com/blogs/git-exception-manual.html
 
 https://www.wenyuanblog.com
