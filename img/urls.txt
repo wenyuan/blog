@@ -104,5 +104,6 @@ https://www.wenyuanblog.com/blogs/reading-notes-xiao-shou-jiu-shi-yao-wan-zhuan-
 
 https://www.wenyuanblog.com/blogs/git-common-command-manual.html
 https://www.wenyuanblog.com/blogs/git-exception-manual.html
+https://www.wenyuanblog.com/blogs/vue-npm-install-with-params.html
 
 https://www.wenyuanblog.com
