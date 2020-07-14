@@ -89,7 +89,7 @@ https://www.wenyuanblog.com/books.html
 https://www.wenyuanblog.com/blogs/how-do-i-choose-books.html
 https://www.wenyuanblog.com/blogs/javascript-libraries-for-graph-visualization.html
 https://www.wenyuanblog.com/about.html
-https://www.wenyuanblog.com/winyuan.html
+https://www.wenyuanblog.com/aboutme.html
 https://www.wenyuanblog.com/guestbook.html
 https://www.wenyuanblog.com/blogs/how-to-define-the-software-version-number.html
 https://www.wenyuanblog.com/blogs/what-happens-from-the-input-url-to-the-presentation-of-the-page.html
@@ -105,5 +105,6 @@ https://www.wenyuanblog.com/blogs/reading-notes-xiao-shou-jiu-shi-yao-wan-zhuan-
 https://www.wenyuanblog.com/blogs/git-common-command-manual.html
 https://www.wenyuanblog.com/blogs/git-exception-manual.html
 https://www.wenyuanblog.com/blogs/vue-npm-install-with-params.html
+https://www.wenyuanblog.com/blogs/git-clone-too-slow-when-clone-github-repo.html
 
 https://www.wenyuanblog.com
