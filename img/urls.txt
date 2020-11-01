@@ -110,5 +110,6 @@ https://www.wenyuanblog.com/blogs/python-install-pyenv-in-ubuntu.html
 https://www.wenyuanblog.com/blogs/python-crontab-script-not-work-in-pyenv.html
 https://www.wenyuanblog.com/blogs/python-module-not-found-error-in-server.html
 https://www.wenyuanblog.com/blogs/git-how-to-participate-in-open-source-projects.html
+https://www.wenyuanblog.com/blogs/curl-reference.html
 
 https://www.wenyuanblog.com
