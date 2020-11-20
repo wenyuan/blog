@@ -112,5 +112,6 @@ https://www.wenyuanblog.com/blogs/python-module-not-found-error-in-server.html
 https://www.wenyuanblog.com/blogs/git-how-to-participate-in-open-source-projects.html
 https://www.wenyuanblog.com/blogs/curl-reference.html
 https://www.wenyuanblog.com/blogs/reading-notes-wo-de-qing-xu-wei-he-zong-bei-ta-ren-zuo-you.html
+https://www.wenyuanblog.com/blogs/django-cors-settings.html
 
 https://www.wenyuanblog.com
