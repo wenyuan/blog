@@ -114,5 +114,6 @@ https://www.wenyuanblog.com/blogs/curl-reference.html
 https://www.wenyuanblog.com/blogs/reading-notes-wo-de-qing-xu-wei-he-zong-bei-ta-ren-zuo-you.html
 https://www.wenyuanblog.com/blogs/django-cors-settings.html
 https://www.wenyuanblog.com/blogs/reading-notes-fu-ba-ba-qiong-ba-ba.html
+https://www.wenyuanblog.com/blogs/python-get-the-exception-value.html
 
 https://www.wenyuanblog.com
