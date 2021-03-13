@@ -120,5 +120,6 @@ https://www.wenyuanblog.com/blogs/on-the-floor-and-off-the-counter-fund.html
 https://www.wenyuanblog.com/blogs/close-ended-fund-and-open-ended-fund.html
 https://www.wenyuanblog.com/blogs/exchange-traded-fund-and-listed-open-ended-fund.html
 https://www.wenyuanblog.com/blogs/share-index.html
+https://www.wenyuanblog.com/blogs/javascript-array-reduce.html
 
 https://www.wenyuanblog.com
