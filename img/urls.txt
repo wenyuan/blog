@@ -126,5 +126,6 @@ https://www.wenyuanblog.com/blogs/javascript-uncertain-parameters-in-function.ht
 https://www.wenyuanblog.com/blogs/jetbrains-ctrl-shift-f-nothing-found.html
 https://www.wenyuanblog.com/blogs/jetbrains-creating-and-editing-file-templates.html
 https://www.wenyuanblog.com/blogs/git-add-ssh-key-to-github.html
+https://www.wenyuanblog.com/blogs/npm-and-npx.html
 
 https://www.wenyuanblog.com
